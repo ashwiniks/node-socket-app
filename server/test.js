@@ -1,0 +1,1 @@
+console.log(encodeURIComponent(`sayfrom=&amp;_SDNactive=false&amp;State.Client.GPS=43.634160:-79.397266&amp;User.Profile.GivenName=Avery`));
